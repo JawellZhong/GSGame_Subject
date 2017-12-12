@@ -1,0 +1,44 @@
+{"frames": {
+
+"IMmohu.png":
+{
+	"frame": {"x":2,"y":2,"w":28,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":14},
+	"sourceSize": {"w":28,"h":14}
+},
+"backBT.png":
+{
+	"frame": {"x":32,"y":2,"w":98,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":57},
+	"sourceSize": {"w":98,"h":57}
+},
+"button_back.png":
+{
+	"frame": {"x":132,"y":2,"w":33,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":27},
+	"sourceSize": {"w":33,"h":27}
+},
+"shuzi.png":
+{
+	"frame": {"x":2,"y":61,"w":236,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":236,"h":30},
+	"sourceSize": {"w":256,"h":64}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Common.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0350783e269d1a3807f026badf9dbcec:2b1a8435738bfb928c8f1d82deb0f9d7:b46a1f3f9732d03f94f6735a68bbd140$"
+}
+}

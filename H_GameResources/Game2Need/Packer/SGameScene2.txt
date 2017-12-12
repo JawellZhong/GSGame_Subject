@@ -1,0 +1,92 @@
+{"frames": {
+
+"biaotilan.png":
+{
+	"frame": {"x":2,"y":2,"w":480,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":133},
+	"sourceSize": {"w":480,"h":133}
+},
+"bu.png":
+{
+	"frame": {"x":484,"y":2,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+},
+"bu2.png":
+{
+	"frame": {"x":621,"y":2,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+},
+"cq_jg_1.png":
+{
+	"frame": {"x":758,"y":2,"w":196,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":196,"h":100},
+	"sourceSize": {"w":200,"h":100}
+},
+"cq_jg_2.png":
+{
+	"frame": {"x":2,"y":139,"w":200,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":100},
+	"sourceSize": {"w":200,"h":100}
+},
+"cq_jg_3.png":
+{
+	"frame": {"x":204,"y":139,"w":198,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":198,"h":98},
+	"sourceSize": {"w":200,"h":100}
+},
+"jian.png":
+{
+	"frame": {"x":404,"y":139,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+},
+"jian2.png":
+{
+	"frame": {"x":541,"y":139,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+},
+"quan.png":
+{
+	"frame": {"x":678,"y":139,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+},
+"quan2.png":
+{
+	"frame": {"x":815,"y":139,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "SGameScene2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c1e552138fc4e978be9a1f99e3476963:8189edc2a5553b4eabed1bf6ac22c4be:5c8434545b144bebe0f473dad920a437$"
+}
+}

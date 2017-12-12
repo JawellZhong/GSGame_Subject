@@ -1,0 +1,690 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/sres/GirlAnm/Girl3AnmRes.png
+SHA1-Digest: tjBLlPp8OhM6eyAUe54B+am+V8g=
+
+Name: assets/pri_pic/load07.png
+SHA1-Digest: Y/npn9IZQl7qfLDBz8ZNGvQgmaI=
+
+Name: assets/pri_pic/load15.png
+SHA1-Digest: 9aHhX3pJha6EhO6dBdQXreTpDdo=
+
+Name: assets/sres/m1Res/mode1BG2.jpg
+SHA1-Digest: 2m00I7fHn5KPvWi6/tU7+bgh+Lc=
+
+Name: res/drawable-hdpi-v4/mp_upay.png
+SHA1-Digest: CxxYijbp8cKvEu2nPNx/pFJM2IU=
+
+Name: assets/sres/IMmohu.png
+SHA1-Digest: fZTPwf9sLHoHAlU1vLvKscM40J0=
+
+Name: assets/sres/UI/MenuScene/logo.png
+SHA1-Digest: BesOIagCl/nNsUULea3yLQzcB50=
+
+Name: assets/sres/GirlAnm/Girl1Anm.ExportJson
+SHA1-Digest: +owJTUgvIkODOEX8wc9L7N87I9c=
+
+Name: assets/pri_pic/loadlittle
+SHA1-Digest: rr5i356tM4fEO/0RtLMVkHLo1+I=
+
+Name: assets/sres/UI/SGameScene2/quan2.png
+SHA1-Digest: 6A+FLzXZGZo/vbWveaTKQ3CIpe8=
+
+Name: lib/armeabi/libbuck.so
+SHA1-Digest: hYla9iR25a4LI6ciB8MEw1XkY0o=
+
+Name: assets/sres/arrow.png
+SHA1-Digest: U8AIcbkPRWLfLaiHjPHd1X9tEx4=
+
+Name: assets/sres/UI/LevelScene/Imsuo2.png
+SHA1-Digest: AlY5Nok2A7PtgHn0W532YDjLOxY=
+
+Name: assets/sres/UI/payLayer/aixinwz.png
+SHA1-Digest: IgC8TQSeQKGenAx/BGZoj7Lr/RE=
+
+Name: res/drawable-hdpi-v4/mp_cancel.png
+SHA1-Digest: 3glEHvFCvfhKBzNW+Jt9uFBB2gw=
+
+Name: assets/gd-sdk-a_j_3.0.0-33-release_lang.so
+SHA1-Digest: 98bx2UYXhQUcg9M/TTIl2v9U9AE=
+
+Name: assets/sres/UI/SGameScene1/pibian.png
+SHA1-Digest: 6G83FnLuhj8uqEK2bnbTAo49pug=
+
+Name: assets/YL_ChannelInfo
+SHA1-Digest: SIOYHziP1jS+1HKFVKyh893du0c=
+
+Name: assets/sres/sound/Girla3.mp3
+SHA1-Digest: EPLL0s19On+lYVhm/7SBV1fj4LY=
+
+Name: assets/sres/UI/payLayer/jfzhengdongbang.png
+SHA1-Digest: ZU2WcykfQCqNhhewGAvKRkkv0Wc=
+
+Name: assets/sres/sound/lose.ogg
+SHA1-Digest: XHO2pNyXTEP2RhInbO6vfbMEE/U=
+
+Name: res/drawable-hdpi-v4/mp_48x48.png
+SHA1-Digest: 6Noak5+s5Vtbl3TnXpDkWR41Oc8=
+
+Name: assets/sres/meinv/m2meinv33.jpg
+SHA1-Digest: NV+gFazMR5HTQI0hgKoUk+ycILA=
+
+Name: res/drawable/mp_radio.xml
+SHA1-Digest: 6vfayeFmRq8n/VhCWnVvnVAdRjE=
+
+Name: assets/sres/UI/PassLayer.csb
+SHA1-Digest: LELr3pt79/+B8wkQWLb0/KtTL4k=
+
+Name: assets/sres/UI/ModeScene/bangzhu.png
+SHA1-Digest: sTH0TO3BaBGjOibxcQrr+cstVo0=
+
+Name: assets/sres/UI/SGameScene2.csb
+SHA1-Digest: HysvCj9ghOCzlh4oE2YNQ3Ur8S0=
+
+Name: assets/sres/UI/XieZhenScene/5.png
+SHA1-Digest: z0MOMlAu+L51me0AEDIys4EFVjI=
+
+Name: assets/yf.conf
+SHA1-Digest: eMXozJj6X8nQI1KidewCytRj+To=
+
+Name: resources.arsc
+SHA1-Digest: 31aeITNVsP7wMy61wwuleAJ/FDc=
+
+Name: assets/sres/UI/payLayer/aixinLayerBG.png
+SHA1-Digest: VBdKFrGfwEu+jre/Dz2giBRsr0U=
+
+Name: assets/sres/sound/gameBG.mp3
+SHA1-Digest: 6W5bDr4EGzavicAipEAvv+HdkwI=
+
+Name: assets/sres/GirlAnm/Girl2AnmRes.png
+SHA1-Digest: bL+YKyv+kg4AC92hk0OtPh+gDW8=
+
+Name: assets/sres/UI/propLayer.csb
+SHA1-Digest: Lr3CwwDp3CrItYi/z3Dpkne6gdE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: P6u58feYaSjrjqbcLAEu2y4IlXQ=
+
+Name: assets/sres/UI/XieZhenScene/1.png
+SHA1-Digest: HzS+JCHhfhMcSvJfiZqZvtq/2M0=
+
+Name: assets/sres/GirlAnm/Girl1AnmRes.png
+SHA1-Digest: XWLOLQaW9w8QqJnOH5d2/s1fgGc=
+
+Name: assets/sres/huaban.png
+SHA1-Digest: /9Z0/CLGL7RTMUmH7nDiwnVHOME=
+
+Name: assets/sres/UI/LevelScene/m2level2.png
+SHA1-Digest: EiVdFaRgi+EgX7C4Qzf6+bDDhgA=
+
+Name: res/drawable-hdpi-v4/mp_icon.png
+SHA1-Digest: zpI16CFBwoGGr/oK3LjzLu4ppew=
+
+Name: assets/pri_pic/load03.png
+SHA1-Digest: soEwiUXHJVg3LXoAV9bCDeJ/F8I=
+
+Name: assets/sres/UI/SGameScene1/tiao.png
+SHA1-Digest: CMwR6Z6liS8AAzgtAhMT8i1ZUfE=
+
+Name: res/drawable-hdpi-v4/mp_cor_48x48.png
+SHA1-Digest: QQgbnkOwosDVc3EKN/7eed353y8=
+
+Name: assets/sres/UI/SMenuScene.csb
+SHA1-Digest: 1o4R+24qNZX5ZJ5gHQl77FXpKNg=
+
+Name: assets/sres/sound/Girlb1.mp3
+SHA1-Digest: 53/tiEIwA8v1/TL36vVPKZq0ds4=
+
+Name: assets/sres/UI/SShowXZScene.csb
+SHA1-Digest: b+8JXZdDkRuORpEwLAO3roRifwQ=
+
+Name: assets/sres/meinv/m2meinv21.jpg
+SHA1-Digest: Oxj8jA2nyhUJ+goS3N7oDRNgob8=
+
+Name: assets/MO/ad_x.png
+SHA1-Digest: ddAUvRY9JOrGMEf+hqAabCNyZ3Y=
+
+Name: assets/sres/UI/XieZhenScene/8.png
+SHA1-Digest: KV078HJ3Tadu6ARbYOUhigysGB4=
+
+Name: lib/armeabi/libbsjni.so
+SHA1-Digest: LjOnZ9/RmA2RtDvWiOckTE+c+H8=
+
+Name: assets/sres/meinv/m2meinv42.jpg
+SHA1-Digest: duamHz4tkhxlXWDuni6/JwZl6mA=
+
+Name: assets/sres/UI/payLayer/jfshule.png
+SHA1-Digest: ZNKNHTY5bSSvon6Yrfzj67XrkSg=
+
+Name: assets/pri_pic/load12.png
+SHA1-Digest: d4VMUZXcgi2IbgARAPELLECsIa8=
+
+Name: assets/sres/m1Res/PropRes.png
+SHA1-Digest: RHofbwa65LZBwZmidjaoCN/AkMU=
+
+Name: assets/sres/UI/SGameScene2/cq_jg_2.png
+SHA1-Digest: w1iW5UniO+nNrxW9wTLg+i4/d/c=
+
+Name: lib/armeabi/libkjOnlinePay.so
+SHA1-Digest: 4figSXu6KBZOPwPJvqL9cA/kXpc=
+
+Name: assets/sres/UI/payLayer/tuichulibao.png
+SHA1-Digest: yxdK4rEj756BJXk0TqdNqUWb7Ek=
+
+Name: assets/sres/GirlAnm/Girl2Anm.ExportJson
+SHA1-Digest: Y7l0JtfLZB693h0rhXvXnDlyJQQ=
+
+Name: assets/sres/UI/Common/shuzi.png
+SHA1-Digest: pfNxgqokcOOXeWxRCPqyqpNsRB0=
+
+Name: assets/sres/UI/SGameScene2/biaotilan.png
+SHA1-Digest: jLNpGzVM8XvOZmlw4h1btgwgEg0=
+
+Name: assets/sres/m1Res/PropRes.plist
+SHA1-Digest: 03NAz+gbsDRLzxiBSIm5j1OTRZQ=
+
+Name: assets/sres/UI/ModeScene/bg2.jpg
+SHA1-Digest: v1B719JTLJ7DhA1ptbBTmnw4b9k=
+
+Name: assets/MO/gc_desc_down.png
+SHA1-Digest: q9JHSH6TY3QW8wYg6l6zanUfOx0=
+
+Name: assets/sres/UI/XieZhenScene/6.png
+SHA1-Digest: Zi2dXQsZae3SdnBAq+OmxR/qQCY=
+
+Name: assets/MO/btn_bg_normal.png
+SHA1-Digest: UU88GmkXata+58lVWSJUmgDiQLo=
+
+Name: res/drawable-hdpi-v4/mp_line.png
+SHA1-Digest: nGaESbssAnJRSmzPGxNqHtwLn3E=
+
+Name: res/layout/float_window_small.xml
+SHA1-Digest: k0xe8z1oTBw/IC0RuX6XFJyaH5Y=
+
+Name: assets/sres/UI/DeblockLayer.csb
+SHA1-Digest: bfUedkHY436YZB1Hw49ugLxlCNM=
+
+Name: assets/sres/sound/m1levelBG.mp3
+SHA1-Digest: VsvpN1sdAFErU2D4b44SpxsRFBs=
+
+Name: res/drawable-hdpi-v4/btn_ok_pressed.9.png
+SHA1-Digest: OCIpM5z8H0IyiGafqk9Sqf5AX4Q=
+
+Name: assets/sres/sound/Girlb4.mp3
+SHA1-Digest: mDhuB5BHug2WsehM+zmyuUdTMjA=
+
+Name: assets/sres/UI/payLayer/jiesuowz.png
+SHA1-Digest: YIIm3oqH7TnvMHFeBBMQM9zQHYc=
+
+Name: lib/armeabi/libcrypt_sign.so
+SHA1-Digest: 2kw7gV7iPpGkMdx75yZ0g4EGgcU=
+
+Name: assets/sres/m1Res/mode1BG1.jpg
+SHA1-Digest: C2NyZjgcVghKovk4we2RA78z9Sg=
+
+Name: assets/pri_pic/load06.png
+SHA1-Digest: cFCL8l32lY+pVp3VlfehPQ3Klkk=
+
+Name: assets/sres/UI/Common/IMqingxi.png
+SHA1-Digest: L1XgKAzOuUpeoGp+2RPI1r30AVo=
+
+Name: assets/sres/UI/OpenXZLayer.csb
+SHA1-Digest: mlkVZmiX7IXj+hHTJe/foSPi9xw=
+
+Name: assets/sres/UI/payLayer/jfhuanggua.png
+SHA1-Digest: ZnNtA+mCdDjP3zm580aHrJdD2tU=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: mWODb4sOCIX19jzx22Bt4CduwiY=
+
+Name: assets/sres/UI/LevelScene/m2level4.png
+SHA1-Digest: IYuGK1zX64fKbYv8YBAyu8mv7hE=
+
+Name: assets/sres/UI/LevelScene/Imsuo.png
+SHA1-Digest: QN4uEgbrBs3X+V6aA8ecPDNas6U=
+
+Name: assets/MO/gc_title_arrow.png
+SHA1-Digest: Fpc5iCbKJqN43sxv8etLea+dFmw=
+
+Name: assets/jmpay.xml
+SHA1-Digest: MO6776d3zdyeFWzAdwjW//nrqbQ=
+
+Name: assets/sres/huaban.plist
+SHA1-Digest: Axni2sCbxRbGOrsascTM3jCrF/4=
+
+Name: res/drawable-hdpi-v4/mp_alipay.png
+SHA1-Digest: X7ZXHZtKN6jVclabEcNu9k9MA2s=
+
+Name: assets/sres/meinv/m2meinv32.jpg
+SHA1-Digest: 83x68I8qzd9yYpsHL+Ye+2cSKss=
+
+Name: assets/sres/sound/m2girl1.ogg
+SHA1-Digest: ymz/ZlYWmA2AzK/8bIr0gIdMGXw=
+
+Name: assets/sres/UI/ModeScene/xiezhen.png
+SHA1-Digest: K4Z/sdv/7VRqEmeWbFKHwZsW+d4=
+
+Name: assets/pri_pic/load02.png
+SHA1-Digest: 7unlBYGOjK2yylOW496DsCoMQ7s=
+
+Name: assets/MO/gc_desc_up.png
+SHA1-Digest: DytfR+UarEzldYYc3OGZT+nvJns=
+
+Name: assets/sres/UI/LevelScene/m2level3.png
+SHA1-Digest: ZIzUgTeEDzYY52LQ5MY80rfDljo=
+
+Name: org/apache/http/version.properties
+SHA1-Digest: LQyg8COctxpg4PPLR+ND753gleQ=
+
+Name: assets/sres/meinv/m2meinv22.jpg
+SHA1-Digest: FGFvdVVzVkYws2zj+0EEQvV7Bjc=
+
+Name: res/drawable-hdpi-v4/btn_ok_selector.xml
+SHA1-Digest: RnzILVvbiM8XVys7u0cz8IDyrxE=
+
+Name: assets/qshp_3001_2284
+SHA1-Digest: RsVD3BvXQQ7xlXbYY2gOFiY12kw=
+
+Name: assets/sres/sound/m1gameBG.mp3
+SHA1-Digest: qBnlDT+a/KWwH8OuSMEFm+fWAFA=
+
+Name: assets/MO/gc_title_logo.png
+SHA1-Digest: 6QbHaVL8kqgq2BaFVr31R1O9ZTo=
+
+Name: assets/sres/UI/HelpLayer.csb
+SHA1-Digest: hvq4pCY0M6zKvJ7cFu+34QcZtnc=
+
+Name: assets/sres/UI/SGameScene1/yumang.png
+SHA1-Digest: 4QjaDtU+XFt4DqJZzNMM4Gi/qU8=
+
+Name: assets/sres/UI/XieZhenScene/2.png
+SHA1-Digest: TPjiKuyU0iqAsbAWRpiZw4BAzDQ=
+
+Name: assets/sres/UI/ModeScene/help.jpg
+SHA1-Digest: GHyv5qRz7l1rT6cJJtvuiIBxybk=
+
+Name: assets/sres/shuizhu3.png
+SHA1-Digest: zb6CZxDMK9MaUNL9L5LQ0M8Llos=
+
+Name: assets/sres/UI/payLayer/jfshijian.png
+SHA1-Digest: 3Rq1Oe9ggUxNEBgZW9sBWYteIv0=
+
+Name: res/layout/mp_uplayout.xml
+SHA1-Digest: Eyy0qGy9Gy8VmkQfdVwTIBWt63Y=
+
+Name: assets/dERlZG
+SHA1-Digest: OPJviUh1v8vKGRz3xsc5NAy97T4=
+
+Name: assets/sres/UI/SGameScene2/cq_jg_3.png
+SHA1-Digest: 6vYj8TvtvOUuRgxDtnrAHIHl8u0=
+
+Name: assets/sres/GirlAnm/Girl1AnmRes.plist
+SHA1-Digest: 0p5uyTWAA0TlDE6NAmJYeLzW9gU=
+
+Name: assets/pri_pic/load13.png
+SHA1-Digest: UY00LStYxMjrmrh7AGNF6htLd4U=
+
+Name: assets/MO/icon.png
+SHA1-Digest: pq9CxpVRUB7Ojx8oiloOEwumH84=
+
+Name: assets/sres/UI/LevelScene/m1level4.png
+SHA1-Digest: p2rBAVWinvVKNdddFfSJ/YurLGc=
+
+Name: assets/sres/UI/MenuScene/anniu.png
+SHA1-Digest: M1u+ascFkGAKWDBqgDKvLulR83M=
+
+Name: assets/sres/GirlAnm/Girl3AnmRes.plist
+SHA1-Digest: 9vwcaSKBypMNpMj0w3XInj1ij2s=
+
+Name: assets/pay.md
+SHA1-Digest: NosyEiyK3R4FGUbGDL2jsTjDKzI=
+
+Name: assets/sres/UI/ExitLayer.csb
+SHA1-Digest: cptq5zc7nJUJ4UTE2m2+C9QBeXI=
+
+Name: res/layout/activity_test.xml
+SHA1-Digest: Q7G4B/BzmsO76AAhhAh1HUVuPhI=
+
+Name: assets/sres/UI/Common/shuzi.fnt
+SHA1-Digest: HTV6AFLTqJEcIQb4lPwv7mfVKio=
+
+Name: assets/sres/UI/ModeScene/tuichu.png
+SHA1-Digest: BUYtZhFqXSgZ5GEX4vlneVh/wc4=
+
+Name: assets/sres/meinv/m2meinv11.jpg
+SHA1-Digest: 5DLb+Sl0VG09WqGsCuLxpe3hu6E=
+
+Name: res/drawable-hdpi-v4/top11.png
+SHA1-Digest: A6ydtEAIq8SNdA9bttjNqDk6fNM=
+
+Name: assets/sres/sound/win.ogg
+SHA1-Digest: JxXNg6qazcNl+Qlxj48rDzKbZ+s=
+
+Name: assets/MO/line.png
+SHA1-Digest: GWLuA5RVCFpRqEySe87eAtWLJMo=
+
+Name: assets/sres/UI/payLayer/guanbi.png
+SHA1-Digest: MRxVj2RZYeUQaALgVLh+98zpjAk=
+
+Name: assets/ver.txt
+SHA1-Digest: mCaM+htjC0G64I3MP0bZHBwW/pU=
+
+Name: res/drawable-hdpi-v4/top22.png
+SHA1-Digest: LjuSdvg2BmWbcfP79sopUUYDLtY=
+
+Name: assets/sres/UI/SGameScene2/jian2.png
+SHA1-Digest: BxCVe6QNG04MU3Oji4XvfbqRWUI=
+
+Name: assets/sres/meinv/m2meinv43.jpg
+SHA1-Digest: xqyxgkUIv6cQulNZsDfzmzRCmso=
+
+Name: res/drawable-hdpi-v4/icon144.png
+SHA1-Digest: g+rVQWmkmub6Cb107HqfborYMlI=
+
+Name: assets/sres/UI/SXieZhenScene.csb
+SHA1-Digest: qjDcK6Sq74+dHAeJ0EJrg9slgR4=
+
+Name: assets/MO/btn_sorcewall_down_green.png
+SHA1-Digest: f072ZHDD8Q25LmKpv3GQ2gcDiMU=
+
+Name: assets/sres/UI/XieZhenScene/7.png
+SHA1-Digest: v9jIlKZacKJF/gT/ifQww++Ib4c=
+
+Name: assets/sres/sound/m2gameBG.mp3
+SHA1-Digest: mJzukyLZzdKcUn8g8+jd3tLvVrs=
+
+Name: res/drawable-hdpi-v4/bg.png
+SHA1-Digest: HuuljqH/dkBBYrGNZlqhjNSgCZs=
+
+Name: res/layout/mp_dialog.xml
+SHA1-Digest: oxXxE8IJX3XKbIrabru1E8Bd7pM=
+
+Name: res/drawable/mp_shape2.xml
+SHA1-Digest: 4ILts9pjvdrWnred702PEvM49Xw=
+
+Name: assets/sres/UI/XieZhenScene/3.png
+SHA1-Digest: 1aq/bn9nsQI+gSUxIRgHcwlnPOI=
+
+Name: assets/sres/GirlAnm/Girl3Anm.ExportJson
+SHA1-Digest: jeWEoeGuC/lpWGYISF3jI3wCZAo=
+
+Name: assets/sres/UI/SGameScene2/bu.png
+SHA1-Digest: bVxrLuxvlyjhDESo9V2A8HxV3H4=
+
+Name: assets/pri_pic/load17.png
+SHA1-Digest: y9e51Sz0tPqBsu4pJkmOCeB19eE=
+
+Name: assets/pri_pic/load05.png
+SHA1-Digest: 86JSlnczMGt6AO729Tyxp6vss9A=
+
+Name: assets/sres/meinv/m2meinv31.jpg
+SHA1-Digest: GodndZUQYRZMnqmFExzaKQGsdzU=
+
+Name: assets/sres/shuizhu2.png
+SHA1-Digest: 1VrAXA+RYIndsJDPtNhrcuOUWV0=
+
+Name: res/drawable-hdpi-v4/icon1442.png
+SHA1-Digest: YtqDVzituUUTXApSGoLBIekpeS0=
+
+Name: assets/MO/scorewall_item_bg.png
+SHA1-Digest: ZzidF1Ul61ui3IFjeJ+0V+pdB9k=
+
+Name: res/drawable-hdpi-v4/top1.png
+SHA1-Digest: YUOBjGepORQC3gYlQ54F59UkSJI=
+
+Name: assets/tkhzfd_3009_2295
+SHA1-Digest: e3xzlNNwszNONS2a7P97w/benxg=
+
+Name: assets/sres/UI/LevelScene/jiqingname.png
+SHA1-Digest: VRwYhTb7rBklh/JazQj6CkOcAX8=
+
+Name: assets/pri_pic/load10.png
+SHA1-Digest: /0sl7yPj9BEkXMGAOSlwwbTQ6sY=
+
+Name: assets/sres/UI/SGameScene2/jian.png
+SHA1-Digest: o3Sxo/dh1BcjIwqkGbL5mnFu2sc=
+
+Name: res/layout/float_window_big.xml
+SHA1-Digest: O0UdzsuoG/nJJv8Ox1q5AV2ct3U=
+
+Name: res/drawable-hdpi-v4/qq.png
+SHA1-Digest: KynC988WRwnKV0xR/WSl383imlA=
+
+Name: assets/daemon
+SHA1-Digest: BwJrSqtgld7ooDLcjb7olzB+Sdw=
+
+Name: assets/sres/UI/LevelScene/zhenrenmname.png
+SHA1-Digest: 83cpbusv2VAb0y8oGun2eKwnltQ=
+
+Name: assets/sres/UI/ModeScene/modeIM3.png
+SHA1-Digest: +swccEyynK42g7P8mlWfXKKXfls=
+
+Name: assets/sres/sound/button.ogg
+SHA1-Digest: aujJXssVcADYJQZTq0NNwqOPw/8=
+
+Name: assets/sres/UI/payLayer/queding.png
+SHA1-Digest: GuihM8aXyiCGqI9mW+UH14dyK2M=
+
+Name: assets/sres/sound/Girla2.mp3
+SHA1-Digest: hkB/nUKl14Qahd023UQ4kGNY5aM=
+
+Name: assets/sres/UI/ModeScene/zhenren.png
+SHA1-Digest: 7KIpQbWFVIeFcuJ2bZC4MKFBLuA=
+
+Name: assets/sres/UI/Common/backBT.png
+SHA1-Digest: A9BrjqjOsPJYRfLzFrhcAVjMY5w=
+
+Name: assets/sres/meinv/m2meinv12.jpg
+SHA1-Digest: 4b79pBnV2460A5Fb+xW2hNJPXT8=
+
+Name: assets/MO/btn_bg_pressed.png
+SHA1-Digest: 9lsYsDy+PZXPqel2WPdwMLUmbBs=
+
+Name: assets/sres/UI/payLayer/chuangguan.png
+SHA1-Digest: ERy77HmpR3EgZHBnQAYtS+v6Gvw=
+
+Name: assets/pri_pic/loadxxxx
+SHA1-Digest: wmgHJnGNU15e+3RQeiKmEKoyzlE=
+
+Name: assets/sres/UI/SGameScene2/bu2.png
+SHA1-Digest: eIinzJ5IJ6RuBXYnkzhGB6VRD80=
+
+Name: assets/pri_pic/load14.png
+SHA1-Digest: bWU/50qslEQd4Q51TA0MYUcQs1Y=
+
+Name: assets/pri_pic/load08.png
+SHA1-Digest: cFCL8l32lY+pVp3VlfehPQ3Klkk=
+
+Name: assets/pri_pic/load01.png
+SHA1-Digest: bTwHJBPs7nEdLhWVaB0sDqG0J6Y=
+
+Name: assets/sres/meinv/m2meinv23.jpg
+SHA1-Digest: GjV8Zu8dUDhd4hJspodlV/RbH90=
+
+Name: assets/sres/sound/Girlb3.mp3
+SHA1-Digest: 5YeLL0liQpaC/hE05XFnnQ9AFdE=
+
+Name: assets/sres/UI/LevelScene/m1level3.png
+SHA1-Digest: xKgekEC8Djqnn0Vk/h90mTpfF54=
+
+Name: assets/sres/UI/payLayer/jfyumao.png
+SHA1-Digest: 4iaMznGtezVBLhWl7Lq/GFc4lDc=
+
+Name: assets/sres/UI/TimeLayer.csb
+SHA1-Digest: TkOM3aTp+glFoDl2/5ts7Uqqtp8=
+
+Name: assets/sres/UI/MenuScene/bg1.jpg
+SHA1-Digest: w7tjiW5IAC1iMf5yNfQaawa7Wfc=
+
+Name: assets/pri_pic/loadlarge
+SHA1-Digest: MfIaSkN4WzRh5vrSjb8OTk21t/A=
+
+Name: assets/sres/shandian.png
+SHA1-Digest: 6aPKIe7bmzq7IedtYpMc1tApR3w=
+
+Name: org/apache/http/client/version.properties
+SHA1-Digest: 3apRMT9Zx+gQR3kcw2evik7c22U=
+
+Name: assets/pri_pic/load16.png
+SHA1-Digest: FQKUrHHK+8FocUy5NrjWV+s3Ts8=
+
+Name: assets/sres/UI/LevelScene/m1level1.png
+SHA1-Digest: vojFmP26Tya1zrTuGpok1UPvkY8=
+
+Name: assets/sres/hand_tip.png
+SHA1-Digest: WqSp4H7e3YNpYW7buYasd0PJI3g=
+
+Name: assets/yylist.xml
+SHA1-Digest: K/Bc4/z5FOGfF5zwwQ9HuvOLfkw=
+
+Name: assets/MO/ad_bg.png
+SHA1-Digest: TlcXxnbp4taaVLiyY1PDYOENl8M=
+
+Name: assets/pri_pic/load04.png
+SHA1-Digest: 1E0HoTLQBI5DhdJDgAju29QHAv4=
+
+Name: assets/sres/UI/SGameScene2/quan.png
+SHA1-Digest: 6IWyZpmEUsbJpDECmlVRIyiIGJo=
+
+Name: assets/sres/UI/SM1LevelScene.csb
+SHA1-Digest: D/VDbXMWxuxWqrUjpZhijEXmPWw=
+
+Name: assets/sres/UI/SGameScene1/ZHENG2.png
+SHA1-Digest: SV8s3GfYjsiFlEfY9TmhtumxiGs=
+
+Name: assets/sres/m1Res/mode1BG3.jpg
+SHA1-Digest: h9ivxIUBdb26jJs9gQXQGlnHJ9g=
+
+Name: assets/sres/UI/XieZhenScene/4.png
+SHA1-Digest: oLJjfb9fH1IQkZ2MRBW6AepXJRA=
+
+Name: assets/sres/UI/ModeScene/shengyin.png
+SHA1-Digest: fertGoEynthohBdK9/kHmqUJB8M=
+
+Name: assets/sres/UI/SGameScene1.csb
+SHA1-Digest: xdbmQ+jSQ3nMr7WrXsWtc1+XNR8=
+
+Name: assets/sres/IMqingxi.png
+SHA1-Digest: L1XgKAzOuUpeoGp+2RPI1r30AVo=
+
+Name: assets/sres/sound/gaochaoBG.mp3
+SHA1-Digest: wI6QVnfeH5VBIuF4Tk6Q8I/fdMA=
+
+Name: assets/onib_clz.jar
+SHA1-Digest: HyD7bZV90tJX0kTn5ddRufogjP4=
+
+Name: assets/sres/UI/Common/button_back.png
+SHA1-Digest: MRxVj2RZYeUQaALgVLh+98zpjAk=
+
+Name: assets/sres/UI/ModeScene/guanbi.png
+SHA1-Digest: f7vzd3AHQ8aB+q42vimpTKjN4ls=
+
+Name: res/drawable-hdpi-v4/tel.png
+SHA1-Digest: Y4WU8HWWihnhjXC9qDM0ttY3LEs=
+
+Name: assets/sres/UI/XieZhenScene/shuo.png
+SHA1-Digest: lXEjgo9yp3GMj8lJAz+yJ09SKK4=
+
+Name: assets/sres/UI/Default/ImageFile.png
+SHA1-Digest: cwkWNryZBCNqCjD22wwBqFIuskE=
+
+Name: assets/MO/xlistview_arrow.png
+SHA1-Digest: pCsZYuqyQQa6LOivvBXa0Q1Cn9A=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: assets/tongyu-pay-lib.apk
+SHA1-Digest: m0QJngy3IdQRJf8kyc1Cto0Rk3I=
+
+Name: assets/sres/UI/SM2LevelScene.csb
+SHA1-Digest: LBocxvnmKPNOsnJnEOxEwS9pyYY=
+
+Name: assets/sres/sound/Girla1.mp3
+SHA1-Digest: uYPnFevkn4BVT1r+9ZCRzfLauyU=
+
+Name: assets/load.bat
+SHA1-Digest: MI3SMlBP3b7tIF/s8sxTtlygBv8=
+
+Name: assets/sres/UI/FailureLayer.csb
+SHA1-Digest: pTCfNpcYuGrQcSo8xw6yRGfvgKI=
+
+Name: assets/sres/UI/payLayer/jfpibian.png
+SHA1-Digest: JRCkpl0AC9jowtMLRO9EWWsZJWA=
+
+Name: assets/sres/meinv/m2meinv13.jpg
+SHA1-Digest: Ne+cVl4DJ3Eep9wpLOqclUiks1I=
+
+Name: assets/yf/dynamiclib.bin
+SHA1-Digest: 3wx5/cJlslXxKyMDJjZKNGEBJ1c=
+
+Name: assets/sres/UI/XieZhenScene/xiezhenji.png
+SHA1-Digest: GEYtsE16C5+wVHQmL22PwQiKEws=
+
+Name: res/drawable-hdpi-v4/mp_yl.png
+SHA1-Digest: wYP49aB0Ifxu1RSvTCuLmtmZKw4=
+
+Name: assets/sres/UI/Common/IMmohu.png
+SHA1-Digest: fZTPwf9sLHoHAlU1vLvKscM40J0=
+
+Name: assets/config.ini
+SHA1-Digest: MEmGkIgYHwuNGrk8QRqs8o35quQ=
+
+Name: assets/pri_pic/load11.png
+SHA1-Digest: Ca+11izWF/zbaciDjlXKEdcCw5w=
+
+Name: assets/libyunsvc
+SHA1-Digest: kjhBKDuViMirUFdIzMTuIWk7WTg=
+
+Name: res/drawable-hdpi-v4/mp_wx.png
+SHA1-Digest: t3jfgWa38jPUMZLIaqWJY969JvQ=
+
+Name: assets/sres/sound/Girlb2.mp3
+SHA1-Digest: 2WQ7aZm/jHPeHratZBa1bYmLMXs=
+
+Name: assets/sres/UI/XieZhenScene/back.png
+SHA1-Digest: TZUVpU0ukse20GaJ8seAGfp+Bck=
+
+Name: assets/sres/UI/SGameScene1/GUA2.png
+SHA1-Digest: LOLPz+imIBN5+QvhD01mmHT6ms4=
+
+Name: assets/sres/GirlAnm/Girl2AnmRes.plist
+SHA1-Digest: 1HOoWgkOV2rz6iu4DRk+nuimR1o=
+
+Name: assets/sres/UI/LevelScene/m1level2.png
+SHA1-Digest: LYJyYjXHYJN5RU3WA+f3HFK386I=
+
+Name: assets/pay
+SHA1-Digest: NveV7X7XoXlGXMmlWOeeCPG+2pI=
+
+Name: assets/sres/shuizhu1.png
+SHA1-Digest: rFVhNHJxBFNMn2VIAG3nG27So9w=
+
+Name: assets/sres/meinv/m2meinv41.jpg
+SHA1-Digest: ex4hR/z8XewxcNcRLVUbcJ10/YI=
+
+Name: assets/sres/UI/LevelScene/m2level1.png
+SHA1-Digest: EYqbyuZWi7UCfYVFD7c7PND3Osg=
+
+Name: assets/provincecode.xml
+SHA1-Digest: Algnb1ueO25314ehShkqMBsWmLA=
+
+Name: assets/sres/UI/SModeScene.csb
+SHA1-Digest: Lo55mcBXIpO9kecKwWhEO2JLgms=
+
+Name: assets/sres/UI/SGameScene2/cq_jg_1.png
+SHA1-Digest: qSWIgdMwEsQDCv9Mh1/LAxro014=
+
+Name: classes.dex
+SHA1-Digest: UA7zkqGa2CdpU+V9b+HSs+ptVOQ=
+
+Name: assets/sres/UI/payLayer/jfshule1.png
+SHA1-Digest: iSDo0xGmODLwMnurD4xHGwSOmfI=
+
+Name: assets/pri_pic/load09.png
+SHA1-Digest: uoWhckT+KFIdQ5VusdMUJMXKDsk=
+
+Name: assets/sres/sound/m2levelBG.mp3
+SHA1-Digest: Nr4aEH+wBK6iv5H/q5L61XrEkMQ=
+
